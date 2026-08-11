@@ -379,7 +379,7 @@ pip install numpy pandas matplotlib seaborn scipy scikit-learn jupyterlab
 
 ```bash
 # Clone the repository
-git clone https://github.com/Aadhish23/DAV_LAB.git
+git clone https://github.com/NareeshKannaS/DAV-LAB-EXP.git
 cd DAV_LAB
 
 # Launch Jupyter Lab
